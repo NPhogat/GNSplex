@@ -1,0 +1,11 @@
+import(Biobase, methods, ggplot2, stats, RColorBrewer, graphics, ggpmisc, EBImage)
+
+
+importFrom(shiny, runApp)
+
+
+exportClasses(gnsdt)
+
+
+export(readIGNSplot, readIGNScutprocess, readGNS, gnsmodel, gnsLOD, gnscor,
+       gnsConf, gnsConc, getIntensity, CRepsd, GNSplex.gui)
