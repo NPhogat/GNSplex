@@ -35,7 +35,7 @@ knitr::kable(x, format = "markdown")
 
 ````
 
-Normalized Intensity Plot (Standardized Intensity vs Concentration):
+Normalized Intensity Plot (Normalized Intensity vs Concentration):
 -------------------------------------------------------------------------
 
 ````{r, echo=FALSE}
@@ -64,7 +64,7 @@ x.crep <- crep()
 
 ````
 
-Standardized Intensity Plot (Normalized Intensity vs Concentration):
+Standardized Intensity Plot (Standardized Intensity vs Concentration):
 -------------------------------------------------------------------------
 
 ````{r, echo=FALSE}
